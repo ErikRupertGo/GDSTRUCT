@@ -43,6 +43,25 @@ public class Main {
 
     private static void selecSort(int[] numbers)
     {
+        for (int ordered = 0; ordered < numbers.length - 1; ordered++)
+        {
+            int largest = numbers.length - 1;
+            for (int i = numbers.length - 1; i >= ordered; i--)
+            {
+                if (numbers[i] > numbers[largest])
+                {
+                    largest = i;
+                }
+            }
+
+            int temp = numbers[ordered];
+            numbers[ordered] = numbers[largest];
+            numbers[largest] = temp;
+        }
+    }
+
+    private static void reverseSelecSort(int[] numbers)
+    {
         for (int ordered = numbers.length - 1; ordered > 0; ordered--)
         {
             int smallestIndex = 0;
