@@ -14,6 +14,7 @@ public class Main {
         System.out.println(mahList.contains(new Node(20)));
         System.out.println(mahList.indexOf(new Node(20)));
 
+        System.out.println();
         mahList.printAll();
         mahList.removeAtIndex(1);
         System.out.println();
