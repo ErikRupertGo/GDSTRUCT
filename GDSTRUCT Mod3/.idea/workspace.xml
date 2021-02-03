@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95f0fd8c-137b-44d3-b909-7429cdc4b37c" name="Default Changelist" comment="" />
+    <list default="true" id="28f7deda-3915-4626-aee7-c7f2bd01cb6a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +17,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1nE4L2E2UuUpcTuh5Z8Ik1Gjr9x" />
+  <component name="ProjectId" id="1nmZc3ptMyhBLmPKF9YNAzLTYfB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -79,16 +79,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.gdstruct.quiz2.Main" />
-      <module name="Quiz 2" />
+      <option name="MAIN_CLASS_NAME" value="com.gdstruct.mod3.Main" />
+      <module name="GDSTRUCT Mod3" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -96,20 +92,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="95f0fd8c-137b-44d3-b909-7429cdc4b37c" name="Default Changelist" comment="" />
-      <created>1610941859918</created>
+      <changelist id="28f7deda-3915-4626-aee7-c7f2bd01cb6a" name="Default Changelist" comment="" />
+      <created>1611997304887</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1610941859918</updated>
+      <updated>1611997304887</updated>
     </task>
     <servers />
   </component>
@@ -124,8 +115,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Quiz_2$Main.ic" NAME="Main Coverage Results" MODIFIED="1611239494422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

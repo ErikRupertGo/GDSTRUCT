@@ -10,6 +10,14 @@ public class LinkedList {
         head = new Node(data);
     }
 
+    public Node getHead() {
+        return head.value;
+    }
+
+    public int getSize() {
+        return size;
+    }
+
     public void removeFirstElement()
     {
         head = head.getNextNode();
