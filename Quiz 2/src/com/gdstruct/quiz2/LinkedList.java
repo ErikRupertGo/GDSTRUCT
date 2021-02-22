@@ -11,7 +11,7 @@ public class LinkedList {
     }
 
     public Node getHead() {
-        return head.value;
+        return head;
     }
 
     public int getSize() {
