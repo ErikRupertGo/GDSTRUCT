@@ -84,6 +84,7 @@ public class HashTable {
     public void remove(String key)
     {
         int hashed = findKey(key);//bruh lol
+
         if (hashed == -1)
         {
             System.out.println("Cannot find element");

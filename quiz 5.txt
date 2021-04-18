@@ -1,0 +1,17 @@
+gamer algorithm lol
+
+requirements:
+length must be either 69 or 420
+lol
+
+char array:
+linear search for each char 'g', 'a', 'm', 'e', 'r'.
+chars are added into a final array.
+if the final array doesnt contain all the characters, it returns -1.
+
+
+number array:
+adds each element to each other until it reaches 69 (haha funny number)
+if the sum is greater than 69 the proceeding elements would be subtracted from the sum.
+
+option 2 would be 420, (parameter is provided)
